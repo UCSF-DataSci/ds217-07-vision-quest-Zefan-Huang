@@ -1,0 +1,201 @@
+customer_id,customer_name,age,gender,city,state,registration_date
+C0001,Customer 1,60,M,Phoenix,TX,2024-11-06
+C0002,Customer 2,57,F,Chicago,GA,2025-07-26
+C0003,Customer 3,24,F,Dallas,WA,2025-03-17
+C0004,Customer 4,53,F,Chicago,GA,2025-04-20
+C0005,Customer 5,55,M,Los Angeles,GA,2024-12-31
+C0006,Customer 6,33,M,Phoenix,IL,2024-12-20
+C0007,Customer 7,69,F,Philadelphia,CA,2025-07-04
+C0008,Customer 8,32,M,New York,NC,2025-10-25
+C0009,Customer 9,63,F,Philadelphia,PA,2024-11-12
+C0010,Customer 10,40,F,San Jose,IL,2025-03-01
+C0011,Customer 11,29,F,Chicago,GA,2025-10-09
+C0012,Customer 12,46,F,Houston,PA,2025-05-31
+C0013,Customer 13,61,F,Philadelphia,FL,2025-06-24
+C0014,Customer 14,65,F,San Diego,PA,2025-06-28
+C0015,Customer 15,32,M,Dallas,NY,2025-06-06
+C0016,Customer 16,46,M,Philadelphia,IL,2025-01-26
+C0017,Customer 17,62,F,San Antonio,IL,2024-12-24
+C0018,Customer 18,60,F,Phoenix,NY,2025-05-31
+C0019,Customer 19,79,F,Dallas,FL,2024-11-04
+C0020,Customer 20,66,M,Houston,OH,2025-07-11
+C0021,Customer 21,38,F,San Jose,OH,2025-07-06
+C0022,Customer 22,32,F,Philadelphia,OH,2025-04-25
+C0023,Customer 23,31,F,Phoenix,OH,2025-09-03
+C0024,Customer 24,59,M,New York,CA,2025-02-21
+C0025,Customer 25,61,F,Phoenix,NY,2025-06-02
+C0026,Customer 26,33,M,Phoenix,FL,2025-05-21
+C0027,Customer 27,32,M,Dallas,GA,2025-07-02
+C0028,Customer 28,59,F,New York,TX,2025-08-21
+C0029,Customer 29,21,M,Phoenix,IL,2024-11-13
+C0030,Customer 30,44,M,San Antonio,PA,2025-07-23
+C0031,Customer 31,40,M,Philadelphia,OH,2025-05-16
+C0032,Customer 32,46,F,Philadelphia,PA,2025-01-05
+C0033,Customer 33,58,M,San Antonio,TX,2025-06-01
+C0034,Customer 34,70,F,Philadelphia,IL,2024-12-08
+C0035,Customer 35,69,F,Phoenix,WA,2025-10-28
+C0036,Customer 36,26,F,San Jose,NC,2025-05-31
+C0037,Customer 37,70,M,Phoenix,FL,2024-10-30
+C0038,Customer 38,74,F,Dallas,CA,2025-08-26
+C0039,Customer 39,73,M,San Diego,PA,2024-12-08
+C0040,Customer 40,69,M,San Jose,OH,2025-08-22
+C0041,Customer 41,60,M,Houston,NY,2025-07-01
+C0042,Customer 42,60,M,Houston,PA,2025-07-13
+C0043,Customer 43,24,F,San Jose,IL,2024-12-18
+C0044,Customer 44,70,F,Phoenix,WA,2025-02-25
+C0045,Customer 45,59,M,Chicago,FL,2025-07-29
+C0046,Customer 46,21,F,San Diego,NY,2025-02-04
+C0047,Customer 47,22,F,San Antonio,NC,2025-07-19
+C0048,Customer 48,22,F,Phoenix,IL,2025-07-10
+C0049,Customer 49,28,M,San Jose,WA,2024-12-13
+C0050,Customer 50,58,F,Chicago,NY,2024-12-30
+C0051,Customer 51,45,M,Phoenix,NC,2024-11-20
+C0052,Customer 52,33,F,Chicago,PA,2025-08-29
+C0053,Customer 53,58,M,San Jose,IL,2025-01-03
+C0054,Customer 54,71,M,Phoenix,GA,2025-06-16
+C0055,Customer 55,47,M,New York,NC,2025-09-05
+C0056,Customer 56,21,F,Philadelphia,WA,2025-07-14
+C0057,Customer 57,19,M,San Jose,GA,2024-12-31
+C0058,Customer 58,63,F,Houston,GA,2025-02-14
+C0059,Customer 59,20,M,Houston,CA,2025-02-19
+C0060,Customer 60,67,F,San Diego,WA,2025-03-22
+C0061,Customer 61,38,M,Los Angeles,GA,2025-05-16
+C0062,Customer 62,23,F,Houston,PA,2025-05-23
+C0063,Customer 63,60,M,Los Angeles,IL,2025-05-17
+C0064,Customer 64,70,M,New York,IL,2025-04-08
+C0065,Customer 65,35,M,San Jose,PA,2025-02-05
+C0066,Customer 66,61,F,Chicago,CA,2025-06-14
+C0067,Customer 67,22,M,San Diego,FL,2024-11-18
+C0068,Customer 68,26,M,Philadelphia,CA,2025-02-24
+C0069,Customer 69,37,M,San Antonio,IL,2025-09-05
+C0070,Customer 70,45,M,Los Angeles,FL,2025-04-04
+C0071,Customer 71,43,F,Philadelphia,CA,2025-10-13
+C0072,Customer 72,35,M,San Diego,GA,2025-08-23
+C0073,Customer 73,36,M,San Diego,FL,2025-06-19
+C0074,Customer 74,20,F,Houston,IL,2025-04-25
+C0075,Customer 75,26,F,Philadelphia,PA,2024-12-26
+C0076,Customer 76,53,F,Phoenix,OH,2025-06-14
+C0077,Customer 77,48,M,Dallas,GA,2025-05-09
+C0078,Customer 78,66,F,San Diego,GA,2025-07-25
+C0079,Customer 79,34,F,Los Angeles,OH,2025-05-12
+C0080,Customer 80,72,F,San Antonio,NC,2025-05-29
+C0081,Customer 81,40,M,San Antonio,TX,2025-04-30
+C0082,Customer 82,51,M,New York,NY,2025-03-02
+C0083,Customer 83,58,M,New York,WA,2024-12-30
+C0084,Customer 84,58,F,Houston,CA,2025-01-18
+C0085,Customer 85,22,M,Phoenix,TX,2025-10-03
+C0086,Customer 86,32,F,Houston,CA,2024-11-04
+C0087,Customer 87,64,F,San Antonio,TX,2025-08-31
+C0088,Customer 88,20,F,Chicago,FL,2025-04-11
+C0089,Customer 89,36,M,San Antonio,PA,2025-02-22
+C0090,Customer 90,45,F,San Diego,WA,2024-11-02
+C0091,Customer 91,20,F,Philadelphia,WA,2025-08-22
+C0092,Customer 92,55,M,Philadelphia,CA,2025-10-09
+C0093,Customer 93,21,F,San Diego,OH,2025-05-31
+C0094,Customer 94,41,F,San Diego,FL,2025-07-20
+C0095,Customer 95,48,F,San Antonio,NC,2025-07-27
+C0096,Customer 96,62,M,Philadelphia,WA,2024-11-03
+C0097,Customer 97,76,F,Philadelphia,NY,2025-03-15
+C0098,Customer 98,62,M,San Jose,CA,2025-06-27
+C0099,Customer 99,76,M,Philadelphia,GA,2025-02-14
+C0100,Customer 100,28,F,San Diego,NY,2024-12-12
+C0101,Customer 101,54,F,New York,IL,2025-03-08
+C0102,Customer 102,18,F,Phoenix,CA,2025-05-21
+C0103,Customer 103,26,F,Chicago,CA,2025-09-18
+C0104,Customer 104,34,M,San Diego,GA,2025-01-27
+C0105,Customer 105,71,M,Philadelphia,FL,2024-11-11
+C0106,Customer 106,18,F,Los Angeles,GA,2025-08-23
+C0107,Customer 107,20,M,San Antonio,WA,2025-05-10
+C0108,Customer 108,64,F,San Antonio,PA,2024-12-03
+C0109,Customer 109,43,F,Phoenix,CA,2025-06-27
+C0110,Customer 110,70,F,San Diego,IL,2025-05-13
+C0111,Customer 111,48,F,Phoenix,OH,2025-09-13
+C0112,Customer 112,43,M,New York,CA,2025-02-11
+C0113,Customer 113,40,M,Dallas,GA,2025-03-27
+C0114,Customer 114,47,F,Houston,TX,2024-12-29
+C0115,Customer 115,27,F,Los Angeles,CA,2025-06-28
+C0116,Customer 116,25,M,Houston,CA,2025-01-10
+C0117,Customer 117,61,M,Dallas,IL,2025-05-21
+C0118,Customer 118,42,M,Los Angeles,IL,2025-04-12
+C0119,Customer 119,39,F,Houston,CA,2025-01-28
+C0120,Customer 120,32,M,Los Angeles,TX,2025-04-07
+C0121,Customer 121,76,F,Phoenix,PA,2025-09-20
+C0122,Customer 122,58,F,Chicago,NC,2025-01-30
+C0123,Customer 123,73,M,San Jose,TX,2025-04-25
+C0124,Customer 124,74,F,Los Angeles,TX,2024-11-09
+C0125,Customer 125,27,M,Dallas,TX,2025-07-29
+C0126,Customer 126,37,F,Phoenix,PA,2025-09-18
+C0127,Customer 127,58,F,San Jose,FL,2025-07-15
+C0128,Customer 128,64,F,Phoenix,FL,2024-12-06
+C0129,Customer 129,40,F,New York,TX,2025-08-26
+C0130,Customer 130,70,F,Philadelphia,NC,2024-10-30
+C0131,Customer 131,70,F,San Antonio,GA,2024-12-25
+C0132,Customer 132,18,M,New York,NY,2025-06-17
+C0133,Customer 133,19,M,Dallas,FL,2025-10-06
+C0134,Customer 134,75,F,San Diego,OH,2025-10-02
+C0135,Customer 135,36,M,San Diego,IL,2025-08-29
+C0136,Customer 136,79,F,San Antonio,PA,2025-01-30
+C0137,Customer 137,31,M,Phoenix,PA,2025-03-15
+C0138,Customer 138,25,M,Chicago,NY,2025-10-10
+C0139,Customer 139,55,F,Dallas,FL,2025-10-27
+C0140,Customer 140,29,M,San Antonio,NC,2025-03-26
+C0141,Customer 141,43,F,San Jose,NC,2024-12-27
+C0142,Customer 142,44,M,San Jose,IL,2025-06-16
+C0143,Customer 143,46,F,San Diego,TX,2025-10-27
+C0144,Customer 144,32,M,Philadelphia,GA,2025-04-20
+C0145,Customer 145,63,F,Phoenix,FL,2025-08-18
+C0146,Customer 146,70,M,San Diego,NC,2024-11-03
+C0147,Customer 147,78,F,Chicago,NY,2025-07-04
+C0148,Customer 148,18,M,San Antonio,IL,2025-05-29
+C0149,Customer 149,77,F,Los Angeles,CA,2025-04-04
+C0150,Customer 150,60,M,Chicago,IL,2025-09-26
+C0151,Customer 151,45,F,Los Angeles,NC,2025-06-15
+C0152,Customer 152,74,M,Phoenix,CA,2024-12-16
+C0153,Customer 153,20,F,San Antonio,OH,2025-07-02
+C0154,Customer 154,68,F,San Jose,WA,2025-07-07
+C0155,Customer 155,35,F,San Jose,IL,2025-10-17
+C0156,Customer 156,69,F,New York,NY,2025-08-22
+C0157,Customer 157,77,M,San Jose,NY,2024-12-01
+C0158,Customer 158,51,M,Dallas,GA,2025-02-15
+C0159,Customer 159,49,M,New York,TX,2025-08-02
+C0160,Customer 160,46,F,New York,IL,2025-09-13
+C0161,Customer 161,42,F,San Jose,NC,2025-02-12
+C0162,Customer 162,77,F,San Diego,WA,2025-03-16
+C0163,Customer 163,43,F,Philadelphia,FL,2025-05-03
+C0164,Customer 164,56,F,Philadelphia,NC,2025-10-20
+C0165,Customer 165,25,M,Dallas,NY,2025-01-19
+C0166,Customer 166,36,M,Houston,OH,2025-06-26
+C0167,Customer 167,71,M,San Diego,NC,2025-06-18
+C0168,Customer 168,64,F,Houston,PA,2025-05-28
+C0169,Customer 169,59,F,Los Angeles,NY,2025-02-24
+C0170,Customer 170,39,F,San Diego,IL,2025-06-12
+C0171,Customer 171,46,F,San Antonio,OH,2024-12-16
+C0172,Customer 172,50,F,Houston,PA,2025-05-07
+C0173,Customer 173,55,F,Dallas,CA,2024-12-11
+C0174,Customer 174,62,F,Dallas,WA,2025-05-09
+C0175,Customer 175,63,M,San Diego,NY,2025-08-17
+C0176,Customer 176,52,M,New York,IL,2024-11-13
+C0177,Customer 177,60,F,San Antonio,PA,2025-06-09
+C0178,Customer 178,20,F,Phoenix,PA,2025-01-11
+C0179,Customer 179,36,F,San Antonio,TX,2025-07-10
+C0180,Customer 180,27,M,Dallas,PA,2025-04-07
+C0181,Customer 181,44,M,Los Angeles,WA,2025-06-21
+C0182,Customer 182,32,F,Houston,OH,2025-07-12
+C0183,Customer 183,28,M,Houston,OH,2025-08-24
+C0184,Customer 184,64,M,Los Angeles,PA,2025-08-05
+C0185,Customer 185,43,M,Chicago,IL,2025-01-28
+C0186,Customer 186,76,F,San Diego,NY,2025-03-17
+C0187,Customer 187,41,M,Dallas,IL,2024-12-09
+C0188,Customer 188,30,M,Philadelphia,GA,2025-10-20
+C0189,Customer 189,49,F,San Jose,NY,2024-11-09
+C0190,Customer 190,54,F,Los Angeles,CA,2025-01-15
+C0191,Customer 191,21,M,Los Angeles,WA,2025-07-10
+C0192,Customer 192,30,F,San Antonio,IL,2025-10-06
+C0193,Customer 193,26,M,San Diego,TX,2025-01-12
+C0194,Customer 194,74,M,San Diego,OH,2024-11-25
+C0195,Customer 195,66,F,Philadelphia,PA,2024-12-08
+C0196,Customer 196,51,F,San Jose,NY,2025-05-15
+C0197,Customer 197,73,M,San Diego,PA,2025-07-13
+C0198,Customer 198,54,F,New York,CA,2025-04-23
+C0199,Customer 199,65,F,Dallas,GA,2024-11-09
+C0200,Customer 200,24,M,New York,PA,2025-04-17
